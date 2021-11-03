@@ -1,8 +1,8 @@
 <a href="https://github.com/jdjaxon">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jdjaxon&show_icons=true&theme=chartreuse-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jdjaxon&show_icons=true&theme=github_dark" />
 </a>
 <a href="https://github.com/jdjaxon">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdjaxon&layout=compact&theme=chartreuse-dark&langs_count=8" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdjaxon&layout=compact&theme=github_dark&langs_count=8" />
 </a>
 
 <!--
