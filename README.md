@@ -1,4 +1,4 @@
-## 🔧 Technologies & Tools
+## 🤖 Technologies
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=blue&labelColor=black)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=blue&labelColor=black)
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=blue&labelColor=black)
@@ -11,7 +11,7 @@
 ![](https://img.shields.io/badge/Tools-Vim-informational?style=flat&logo=vim&logoColor=white&color=blue&labelColor=black)
 ![](https://img.shields.io/badge/Tools-Neovim-informational?style=flat&logo=neovim&logoColor=white&color=blue&labelColor=black)
 
-## &#x1f4c8; GitHub Stats
+## 📈 Stats
 <a href="https://github.com/jdjaxon">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jdjaxon&show_icons=true&theme=github_dark" />
 </a>
