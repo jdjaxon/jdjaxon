@@ -1,11 +1,12 @@
 ## About me
-- 🌱 I’m currently learning Lua, Java, Go, and Javascript
+- 🌱 I’m currently learning Lua, Java, Go, Javascript, and Rust
 - 🏫 I’m currently working on my B.S. in software engineering
 
 ## 🤖 Technologies
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=blue&labelColor=black)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=blue&labelColor=black)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=blue&labelColor=black)
+![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=blue&labelColor=black)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=blue&labelColor=black)
 ![](https://img.shields.io/badge/Code-Lua-informational?style=flat&logo=lua&logoColor=white&color=blue&labelColor=black)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=blue&labelColor=black)
