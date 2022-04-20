@@ -3,19 +3,19 @@
 - 🏫 I’m currently working on my B.S. in software engineering
 
 ## 🤖 Technologies
-![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=blue&labelColor=black)
-![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=blue&labelColor=black)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=blue&labelColor=black)
-![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=blue&labelColor=black)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=blue&labelColor=black)
-![](https://img.shields.io/badge/Code-Lua-informational?style=flat&logo=lua&logoColor=white&color=blue&labelColor=black)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=blue&labelColor=black)
-![](https://img.shields.io/badge/Code-Makefile-informational?style=flat&logo=GNU&logoColor=white&color=blue&labelColor=black)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=blue&labelColor=black)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=blue&labelColor=black)
-![](https://img.shields.io/badge/Tools-Ansible-informational?style=flat&logo=ansible&logoColor=white&color=blue&labelColor=black)
-![](https://img.shields.io/badge/Tools-Vim-informational?style=flat&logo=vim&logoColor=white&color=blue&labelColor=black)
-![](https://img.shields.io/badge/Tools-Neovim-informational?style=flat&logo=neovim&logoColor=white&color=blue&labelColor=black)
+![](https://img.shields.io/badge/Golang-informational?style=for-the-badge&logo=go&logoColor=white&color=blue&labelColor=black)
+![](https://img.shields.io/badge/C-informational?style=for-the-badge&logo=c&logoColor=white&color=blue&labelColor=black)
+![](https://img.shields.io/badge/C++-informational?style=for-the-badge&logo=cplusplus&logoColor=white&color=blue&labelColor=black)
+![](https://img.shields.io/badge/Rust-informational?style=for-the-badge&logo=rust&logoColor=white&color=blue&labelColor=black)
+![](https://img.shields.io/badge/Python-informational?style=for-the-badge&logo=python&logoColor=white&color=blue&labelColor=black)
+![](https://img.shields.io/badge/Lua-informational?style=for-the-badge&logo=lua&logoColor=white&color=blue&labelColor=black)
+![](https://img.shields.io/badge/Java-informational?style=for-the-badge&logo=java&logoColor=white&color=blue&labelColor=black)
+![](https://img.shields.io/badge/Makefile-informational?style=for-the-badge&logo=GNU&logoColor=white&color=blue&labelColor=black)
+![](https://img.shields.io/badge/Bash-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=blue&labelColor=black)
+![](https://img.shields.io/badge/Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=blue&labelColor=black)
+![](https://img.shields.io/badge/Ansible-informational?style=for-the-badge&logo=ansible&logoColor=white&color=blue&labelColor=black)
+![](https://img.shields.io/badge/Vim-informational?style=for-the-badge&logo=vim&logoColor=white&color=blue&labelColor=black)
+![](https://img.shields.io/badge/Neovim-informational?style=for-the-badge&logo=neovim&logoColor=white&color=blue&labelColor=black)
 
 
 ## 📈 Stats
