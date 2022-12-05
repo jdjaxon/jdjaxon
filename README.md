@@ -9,7 +9,7 @@
 ![](https://img.shields.io/badge/Rust-informational?style=for-the-badge&logo=rust&logoColor=white&color=blue&labelColor=black)
 ![](https://img.shields.io/badge/Python-informational?style=for-the-badge&logo=python&logoColor=white&color=blue&labelColor=black)
 ![](https://img.shields.io/badge/Lua-informational?style=for-the-badge&logo=lua&logoColor=white&color=blue&labelColor=black)
-![](https://img.shields.io/badge/Java-informational?style=for-the-badge&logo=java&logoColor=white&color=blue&labelColor=black)
+![](https://img.shields.io/badge/Javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=blue&labelColor=black)
 ![](https://img.shields.io/badge/Makefile-informational?style=for-the-badge&logo=GNU&logoColor=white&color=blue&labelColor=black)
 ![](https://img.shields.io/badge/Bash-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=blue&labelColor=black)
 ![](https://img.shields.io/badge/Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=blue&labelColor=black)
