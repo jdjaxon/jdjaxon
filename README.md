@@ -1,6 +1,6 @@
 ## Hi, I'm Jeremy
 - 🖥️ I've been coding in C, Python, and Go for over five years
-- 🌱 I’m currently learning Kubernetes and AWS and improving my skills with Go, APIs, and databases
+- 🌱 I’m currently improving my skills with AWS, Kubernetes, Go, APIs, and databases
 
 ---
 
