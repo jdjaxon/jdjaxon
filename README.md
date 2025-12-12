@@ -21,11 +21,3 @@
 ![](https://img.shields.io/badge/Makefile-informational?style=for-the-badge&logo=GNU&color=1b2932&labelColor=1b2932)
 ![](https://img.shields.io/badge/Kubernetes-informational?style=for-the-badge&logo=kubernetes&color=1b2932&labelColor=1b2932)
 ![](https://img.shields.io/badge/Ansible-informational?style=for-the-badge&logo=ansible&color=1b2932&labelColor=1b2932)
-
----
-
-<div align="center">
-  <a href="https://github.com/jdjaxon">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jdjaxon&show_icons=true&theme=noctis_minimus" />
-  </a>
-</div>
